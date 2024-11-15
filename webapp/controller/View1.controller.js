@@ -4,7 +4,7 @@ sap.ui.define([
     "sap/m/Image",
     "sap/suite/ui/commons/library"
 ],
-function (Controller,MessageToast,Image) {
+function (Controller,MessageToast,Image) {  
     "use strict";
 
     return Controller.extend("sap.btp.sapui5.controller.View1", {
